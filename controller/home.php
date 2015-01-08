@@ -65,4 +65,10 @@ class Home extends MX_Controller
         $this->session->sess_destroy();
         redirect('home');
     }
+	
+	public function login(){
+    }
+	
+	public function saveSetup(){
+    }
 }
