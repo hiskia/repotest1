@@ -71,4 +71,7 @@ class Home extends MX_Controller
 	
 	public function saveSetup(){
     }
+	
+	public function editSetup(){
+    }
 }

@@ -111,7 +111,7 @@ Kode ditulis dengan Netbeans versi 7.0.1 dengan system operasi Linux Ubuntu vers
             </div>
         </form>
         </div>
-		<div id="log">
+		<div id="logout">
 		</div>
     </body>
 </html>
